@@ -1,0 +1,192 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/gomeeki_mashup.sql",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/README.md",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/gomeeki-mashup.sublime-workspace",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/sql/gomeeki_mashup.sql",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/www/twitter.php",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/www/index.php",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/www/functions.inc.php",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/www/assets/css/main.css",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/www/assets/js/main.js",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/ReadMe.txt",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/gomeeki-mashup.git/trunk/README.md",
+		"/Users/dov/Desktop/Clients/gomeeki/gmaps-project/www/assets/css/main.less",
+		"/Users/dov/Downloads/tfxyln/tfxyln/source_files/html/php/submit-form-ajax.php",
+		"/Users/dov/Downloads/contact_form/sendEmail.php",
+		"/Users/dov/Desktop/Clients/Gardens by Ingrid/PHPMailer_5.2.0/PHPMailerAutoload.php",
+		"/Users/dov/Desktop/Clients/Gardens by Ingrid/js/setup.js",
+		"/Users/dov/Desktop/Clients/Gardens by Ingrid/js/jScript.js",
+		"/Users/dov/Desktop/Clients/Gardens by Ingrid/php/submit-form.php",
+		"/Users/dov/Desktop/Clients/Gardens by Ingrid/php/submit-form-ajax.php",
+		"/Users/dov/Desktop/Clients/MrsInkandCo/css/main.css",
+		"/Users/dov/Desktop/Clients/MrsInkandCo/index.html",
+		"/Users/dov/Desktop/Clients/Gardens by Ingrid/css/supersized.css",
+		"/Users/dov/Desktop/Clients/MrsInkandCo/fc/fonts.css",
+		"/Users/dov/Desktop/Clients/MrsInkandCo/fonts.css",
+		"/Users/dov/Desktop/Clients/MrsInkandCo/demo.html",
+		"/Users/dov/Desktop/Clients/MrsInkandCo/index5.html",
+		"/Applications/AMPPS/www/wp-content/themes/miele/functions.php",
+		"/Applications/AMPPS/www/index.php",
+		"/Applications/AMPPS/www/license.txt",
+		"/Applications/AMPPS/www/Login.html",
+		"/Applications/AMPPS/www/readme.html",
+		"/Applications/AMPPS/www/robots.txt",
+		"/Applications/AMPPS/www/testNab.php",
+		"/Applications/AMPPS/www/web.config",
+		"/Applications/AMPPS/www/wp-activate.php",
+		"/Applications/AMPPS/www/wp-blog-header.php",
+		"/Applications/AMPPS/www/wp-comments-post.php",
+		"/Applications/AMPPS/www/wp-config-sample.php",
+		"/Applications/AMPPS/www/wp-config.php",
+		"/Applications/AMPPS/www/wp-cron.php",
+		"/Applications/AMPPS/www/wp-links-opml.php",
+		"/Applications/AMPPS/www/wp-load.php",
+		"/Applications/AMPPS/www/wp-login.php",
+		"/Applications/AMPPS/www/wp-mail.php",
+		"/Applications/AMPPS/www/wp-settings.php",
+		"/Applications/AMPPS/www/wp-signup.php",
+		"/Applications/AMPPS/www/wp-trackback.php",
+		"/Applications/AMPPS/www/xmlrpc.php",
+		"/Applications/AMPPS/www/xmas/index.php",
+		"/Applications/AMPPS/www/xmas/js/sitejs.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/AMPPS/www/wp-content/themes/miele-mobile",
+			"/Applications/AMPPS/www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"subje",
+			"subject",
+			"png",
+			"You must read",
+			"terms",
+			"BOOKINGSUMMARY",
+			"EVENTNAME",
+			"mine"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
