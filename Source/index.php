@@ -11,7 +11,7 @@
 <!doctype html>
 <html ng-app="Twitter">
 	<head>
-		<title>Dev Project</title>
+		<title>Gomeeki Mashup</title>
 		
 		<meta content="yes" name="apple-mobile-web-app-capable">
 		<meta content="minimum-scale=0.6, width=device-width, maximum-scale=0.6, user-scalable=no" name="viewport">
