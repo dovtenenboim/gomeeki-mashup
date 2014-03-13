@@ -1,0 +1,96 @@
+/**
+ * Gomeeki Mashup   
+ * 
+ * (c) Dov Tenenboim. All Rights Reserved.
+ *
+ * This project, including its source code, may not be copied, referenced, or linked to
+ * without prior consent. 
+ */
+ 
+/* Some Style Fixes */
+input:focus { outline-width: 0; }.
+
+/* Main App CSS */
+body {
+	
+}
+
+#app_contain {
+	width: 100%;
+	height: 100%;
+	background-color: #ffffff;
+}
+
+#bar {
+	height: 30px;
+}
+
+#CityName {
+	width: 100%;
+	height: 30px;
+}
+
+#s_field {
+	float: left;
+	width: 50%;
+}
+
+#s_button {
+	float: left;
+	height: 30px;
+	width: 25%;
+
+}
+
+#s_history {
+	float: left;
+	height: 30px;
+	width: 25%;
+}
+
+#SearchButton {
+	width: 100%;	
+	height: 100%;
+	background-color: #6cbefd;
+	border: 1px solid #c6c6c6;
+	color: #fff;
+}
+
+
+#HistoryButton {
+	width: 100%;	
+	height: 100%;
+	background-color: #6cbefd;
+	border: 1px solid #c6c6c6;
+	color: #fff;
+}
+
+#SearchButton, #HistoryButton {
+	font-size: 12px;
+}
+
+#map {
+	height: 450px;
+	width: 100%;
+}
+
+#map-canvas { height: 100%;  background-color: #ffffff; }
+
+.history_item a {
+	text-decoration: none;
+	color: #444444;
+	padding: 10px;
+}
+.history_item a:hover {
+	text-decoration: none;
+}
+
+.history_item {
+	float: left;
+	display: block;
+	color: #444444;
+	border-bottom: 1.5px outset #57a8ff;
+	height: 30px;
+	font-size: 18px;
+	width: 100%;
+}
