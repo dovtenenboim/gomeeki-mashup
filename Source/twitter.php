@@ -27,10 +27,10 @@
 	
 		// Authenticate using TwitterAPIExchange Class
 		$twitter = new TwitterAPIExchange(array(
-		    'oauth_access_token' => "292708594-ulgO1pGigTgZeNRL5wI2g4uHaYMhozh9VhNofhIZ",
-		    'oauth_access_token_secret' => "QIThtv9V2GPqdQGynpyTaQc0Conz573B8MT1DgNg5hpDt",
-		    'consumer_key' => "tVxqA9OJNEvHzB72F9aE4w",
-		    'consumer_secret' => "OJPbcd4rmQB7VF79pa5lYPEyLQf6Ua5dHLWuKpso"
+		    'oauth_access_token' => "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		    'oauth_access_token_secret' => "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		    'consumer_key' => "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+		    'consumer_secret' => "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 		));
 		
 		// Create a query to the twitter API 
